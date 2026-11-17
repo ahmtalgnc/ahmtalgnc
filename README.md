@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ahmtalgnc/ahmtalgnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Ahmet Ali Genç 👋
 
-Here are some ideas to get you started:
+### Yazılım Geliştirici · Laravel & PHP · Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**İşlevsel, sürdürülebilir ve kullanıcı odaklı web deneyimleri geliştiriyorum.**
+
+[Portföyüm](https://ahmetaligenc.com) · [GitHub Profilim](https://github.com/ahmtalgnc)
+
+</div>
+
+---
+
+## Hakkımda
+
+2019'dan bu yana web geliştirme alanında çalışıyorum. Laravel ve PHP tabanlı uygulamalar geliştiriyor; arayüz tasarımı, kullanılabilirlik ve performans konularına odaklanıyorum.
+
+Bir projeyi yalnızca çalışan kod olarak değil; anlaşılır arayüzü, bakım kolaylığı ve gerçek kullanıcı ihtiyaçlarıyla birlikte ele alıyorum.
+
+## Uzmanlık alanlarım
+
+- **Web uygulamaları:** Laravel ve PHP ile yönetilebilir, ihtiyaca özel çözümler
+- **Frontend geliştirme:** Duyarlı arayüzler, etkileşimli bileşenler ve kullanıcı deneyimi
+- **Yönetim panelleri:** İçerik, ürün ve süreç yönetimini kolaylaştıran sistemler
+- **Web performansı:** Sayfa hızı, erişilebilirlik ve teknik SEO iyileştirmeleri
+- **Entegrasyon ve bakım:** Mevcut projelerin geliştirilmesi, düzenlenmesi ve sürdürülebilirliği
+
+## Çalıştığım teknolojiler
+
+| Alan | Teknolojiler |
+| --- | --- |
+| Backend | PHP, Laravel |
+| Frontend | HTML, CSS, JavaScript, Blade |
+| Araçlar | Git, GitHub, Composer, VS Code |
+| Ek bilgi | .NET Core (temel düzey) |
+
+## Çalışma yaklaşımım
+
+**İhtiyacı anla → sade bir çözüm tasarla → temiz kodla geliştir → test et ve iyileştir.**
+
+Kod kalitesi kadar içeriğin anlaşılır olmasına, arayüzün farklı ekranlarda sorunsuz çalışmasına ve uygulamanın uzun vadede yönetilebilir kalmasına önem veriyorum.
+
+## Projeler
+
+Bu profil sıfırdan yapılandırılıyor. Paylaşılabilir projelerimi ve teknik çalışmalarımı, açıklamaları ve kurulum yönergeleriyle birlikte burada yayınlayacağım.
+
+## İletişim
+
+Yeni bir proje veya iş birliği için [ahmetaligenc.com](https://ahmetaligenc.com) üzerinden bana ulaşabilirsin.
